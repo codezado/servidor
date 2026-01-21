@@ -1,0 +1,22 @@
+ {
+  "modpackName": "Pack de zeus",
+  "version": "1.0.0",
+  "mods": [
+    {
+      "name": "Lithium",
+      "downloadUrl": "https://github.com/codezado/servidor/raw/refs/heads/main/lithium-fabric-0.21.2+mc1.21.11.jar"
+    },
+    {
+      "name": "Sodium",
+      "downloadUrl": "https://github.com/codezado/servidor/raw/refs/heads/main/sodium-fabric-0.8.2+mc1.21.11.jar"
+    },
+    {
+      "name": "FerriteCore",
+      "downloadUrl": "https://github.com/codezado/servidor/raw/refs/heads/main/ferritecore-8.0.3-fabric.jar"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "downloadUrl": "https://github.com/codezado/servidor/raw/refs/heads/main/ImmediatelyFast-Fabric-1.14.1+1.21.11.jar"
+    }
+  ]
+}
