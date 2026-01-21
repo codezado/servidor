@@ -1,0 +1,20 @@
+{
+  "mods": [
+    {
+      "name": "Lithium",
+      "url": "https://raw.githubusercontent.com/codezado/servidor/main/lithium-fabric-0.21.2+mc1.21.11.jar"
+    },
+    {
+      "name": "Sodium",
+      "url": "https://raw.githubusercontent.com/codezado/servidor/main/sodium-fabric-0.8.2+mc1.21.11.jar"
+    },
+    {
+      "name": "FerriteCore",
+      "url": "https://raw.githubusercontent.com/codezado/servidor/main/ferritecore-8.0.3-fabric.jar"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "url": "https://raw.githubusercontent.com/codezado/servidor/main/ImmediatelyFast-Fabric-1.14.1+1.21.11.jar"
+    }
+  ]
+}
